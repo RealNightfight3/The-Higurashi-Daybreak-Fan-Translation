@@ -1,0 +1,91 @@
+
+
+                         Higurashi Daybreak Fan Translation
+                                   English v1.4
+                              Released June 20, 2021
+                           Last Updated October 7, 2021 
+
+This is an unofficial translation of Higurashi Daybreak, a Japanese dōjin third person 
+shooter developed by Twilight Frontier, first released on August 13, 2006 and is based
+on the popular visual novel, Higurashi no Naku Koro ni. 
+
+This patch is dedicated to Roger Pepitone, a man who tried to translate this game in
+2010, but never finished. We finished it for him. 
+
+For more details about this translation and the project, please visit:
+
+             https://nightfight3gaming.wixsite.com/daybreaktranslation
+
+  =========================================================================
+
+WHAT'S NEW IN THIS VERSION:
+
+	* Minor bug fixes in story mode
+	* Minor bug fix in settings menu
+	* Win dialouge has been added
+	
+	Make sure to follow us for updates on the patch!
+							  
+  =========================================================================
+
+Installing the English patch:
+
+ 1.  Unzip the contents of this zip file to a folder/directory. You should
+     find the following files:
+
+     *DFTP.exe     (The Patcher)
+     *DFTP_x64.exe (Alt Patcher)
+     *Data	   (English Files)
+     *DFTP.dat     (Patcher Code)
+     *filepos.dat  (Patcher Code)
+     *READ ME      (This file)
+
+
+ 2.   You need a copy of the game. It should be noted that this game can be
+      hard to obtain due to the fact that the manufacturer has stopped 
+      producing it. Given that, you can often find this game on many
+      search engines The original game is around 2.4GB and the expansion is 
+      around 1.68GB. This should only be done as a last resort if you cannot
+      find the game anywhere else. PLEASE TRY TO OBTAIN IT LEGITLY!
+
+ 3.   Open up "DFTP.exe" and drag the base game or expansion to the box that
+      says "daybreak". 
+
+ 4.   In the "Patch list" section, check off "Dialogue_ENG". 
+      Then click "Apply Patch".
+
+ 5.   Then a pop up will ask "Write to daybreak0x.dat OK?". Click "OK" in that window.     
+      The "Info" tab will then say "finish" when done. 
+     
+ 7.   Open the game either by clicking the icon in the launcher or in the folder.
+
+ 8.   Your game is now in English! Enjoy :D
+ 
+  =========================================================================
+  
+CREDITS:
+
+  Translations:           Nightfight3
+  		          Dmitriy
+  	 		  Enderrated
+			  HhhomeboYyyy
+			  Vasteel
+			  Nesprecco
+			  
+
+  
+  Image Editing: 	  Warrior Kaminari Kemono
+			  Nightfight3
+
+
+  Patcher Programming:	  Mapleleaf
+
+
+  Text Programming:       Dmitriy
+			  Nightfight3	
+ 
+
+  Beta Testers:           Enderrated
+			  HhhhomeboYyyy
+			  Vongalaxy
+                          LAMBDADELTO
